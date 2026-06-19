@@ -41,7 +41,7 @@
                 android:layout_width="345dp"
                 android:layout_height="104dp"
                 android:layout_marginTop="20dp"
-                android:text="Hola, mi nombre es Yeimy Pipicano y soy estudiante de Desarrollo de Software en el SENA. Me gusta todo lo de  la programación, el desarrollo de aplicaciones móviles y el aprendizaje de nuevas tecnologías."
+                android:text="Hola, mi Juan David Quintero y soy estudiante de Desarrollo de Software en el SENA. Me gusta todo lo de  la programación, el desarrollo de aplicaciones móviles y el aprendizaje de nuevas tecnologías."
                 android:textSize="16sp" />
 
             <TextView
